@@ -20,5 +20,6 @@ https://www.kaggle.com/datasets/datasnaek/youtube-new
 
 ## Architecture Diagram:
 
-![architecture](https://github.com/vikash-singh-prac/Youtube_Ad_Campaign_DE_Project/assets/58064949/76ab32df-2ef6-4097-af87-6cf1f114679c)
+![Screenshot 2023-08-19 at 8 53 34 AM](https://github.com/vikash-singh-prac/Youtube_Ad_Campaign_DE_Project/assets/58064949/ad70af3d-cfda-42a8-8df5-7818a367c8d1)
+
 
